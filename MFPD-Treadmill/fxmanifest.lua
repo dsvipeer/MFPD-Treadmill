@@ -12,9 +12,3 @@ client_scripts {
 	'client.lua',
 }
 
-files {
-    'html/sounds/andar.ogg',
-    'html/sounds/correr.ogg',
-}
-
-
