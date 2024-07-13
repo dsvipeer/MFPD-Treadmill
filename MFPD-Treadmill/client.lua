@@ -104,7 +104,7 @@ RegisterCommand("stop", function()
     if isAttachedToTreadmill then
         DetachPlayerFromTreadmill() 
         PlayPickupAnimation() 
-        PlayCustomSoundToRadius("parou", 0.9)
+        PlayCustomSoundToRadius("stop", 0.9)
         Citizen.Wait(2000) 
         LeaveTreadmill()
     end
