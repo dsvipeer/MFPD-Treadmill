@@ -12,3 +12,8 @@ client_scripts {
 	'client.lua',
 }
 
+files {
+    'html/sounds/walk.ogg',
+    'html/sounds/run.ogg',
+    'html/sounds/stop.ogg',
+}
